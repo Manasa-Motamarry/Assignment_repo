@@ -1,10 +1,13 @@
 package com.demo.spring;
-
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
-
+/*
+-------------------------------------------
+Making this change for the second commit !!
+------------------------------------------- 
+*/
 @Entity
 @Table(name="EMP")
 public class Employee {
